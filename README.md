@@ -1,0 +1,1 @@
+This project, undertaken as part of the DSA 3050 course at USIU-A, aimed to evaluate and enhance the Business Intelligence (BI) capabilities of Keswick Books and Gifts Ltd., a Christian bookstore based in Nairobi, Kenya. 
